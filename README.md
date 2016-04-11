@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # A RESTful API example with Martini
 
 ## Install and run
